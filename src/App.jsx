@@ -1,5 +1,4 @@
 import Navbar from './components/navbar'
-import Logo from './assets/logo.png'
 
 
 function App() {
